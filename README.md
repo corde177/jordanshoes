@@ -1,5 +1,6 @@
 # jordanshoes
  Desafio 2 da comunidade codelândia.
+ 
  💻 Projecto
  Esse desafio foi proposto pelo Luri Silva em seu canal do Discord Codelândia.
  O desafio conciste em tranformar o projecto do figma em uma land page utilizando tecnologias a sua escolha.💰
